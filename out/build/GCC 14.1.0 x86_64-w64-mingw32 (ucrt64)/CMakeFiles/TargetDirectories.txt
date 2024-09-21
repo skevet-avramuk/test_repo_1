@@ -1,0 +1,3 @@
+D:/vs code/repos/test_repo/out/build/GCC 14.1.0 x86_64-w64-mingw32 (ucrt64)/CMakeFiles/test_project.dir
+D:/vs code/repos/test_repo/out/build/GCC 14.1.0 x86_64-w64-mingw32 (ucrt64)/CMakeFiles/ALL_BUILD.dir
+D:/vs code/repos/test_repo/out/build/GCC 14.1.0 x86_64-w64-mingw32 (ucrt64)/CMakeFiles/ZERO_CHECK.dir
